@@ -1,18 +1,18 @@
 {
   "jobs": [
     {
-      "id": "1",
-      "title": "Senior Vue Developer",
+      "title": "Senior Vue Dev",
       "type": "Full-Time",
-      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as Vue or Angular.",
       "location": "Boston, MA",
-      "salary": "$70K - $80K",
+      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as Vue or Angular.",
+      "salary": "$90K - $100K",
       "company": {
         "name": "NewTek Solutions",
         "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
         "contactEmail": "contact@teksolutions.com",
         "contactPhone": "555-555-5555"
-      }
+      },
+      "id": "1"
     },
     {
       "id": "2",
@@ -82,34 +82,6 @@
         "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
-      }
-    },
-    {
-      "id": "987a",
-      "title": "Wynne Norman",
-      "type": "Part-Time",
-      "location": "Aliquam magni quidem",
-      "description": "Quia dolore sit tem",
-      "salary": "Under $50K",
-      "company": {
-        "name": "Rowe and Gallagher Traders",
-        "description": "Enim recusandae Ven",
-        "contactEmail": "towelinagy@mailinator.com",
-        "contactPhone": "+1 (193) 695-6399"
-      }
-    },
-    {
-      "id": "c731",
-      "title": "Vue Dev",
-      "type": "Remote",
-      "location": "Sunt asperiores reru",
-      "description": "Quaerat ut voluptate",
-      "salary": "Under $50K",
-      "company": {
-        "name": "Melton and Frederick Traders",
-        "description": "Deleniti quis laboru",
-        "contactEmail": "raqemafa@mailinator.com",
-        "contactPhone": "+1 (779) 624-5651"
       }
     }
   ]
