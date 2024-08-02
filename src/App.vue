@@ -1,9 +1,14 @@
-<script setup>
-import Navbar from '@/components/Navbar.vue';
-import { RouterView } from 'vue-router';
-</script>
-
 <template>
-  <Navbar />
+  <TopNavbar />
+  <ErrorModal />
   <RouterView />
+  <ThemeToggle />
 </template>
+
+<script setup>
+import { RouterView } from 'vue-router';
+
+import ErrorModal from '@/components/ErrorModal';
+import TopNavbar from '@/components/TopNavbar';
+import ThemeToggle from '@/components/ThemeToggle';
+</script>

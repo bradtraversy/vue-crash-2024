@@ -1,7 +1,7 @@
-<script setup>
-import JobListings from '@/components/JobListings.vue';
+<script setup lang="ts">
+import JobList from '@/components/JobList';
 </script>
 
 <template>
-  <JobListings />
+  <JobList :limit="4" :show-button="true" />
 </template>

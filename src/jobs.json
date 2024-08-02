@@ -1,7 +1,7 @@
 {
   "jobs": [
     {
-      "title": "Senior Vue Dev",
+      "title": "Updated Job Titled",
       "type": "Full-Time",
       "location": "Boston, MA",
       "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as Vue or Angular.",
@@ -15,46 +15,32 @@
       "id": "1"
     },
     {
-      "id": "2",
-      "title": "Front-End Engineer (Vue)",
-      "type": "Full-Time",
-      "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
-      "location": "Miami, FL",
-      "salary": "$70K - $80K",
-      "company": {
-        "name": "Veneer Solutions",
-        "description": "Veneer Solutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
-        "contactEmail": "contact@loremipsum.com",
-        "contactPhone": "555-555-5555"
-      }
-    },
-    {
-      "id": "3",
       "title": "Vue.js Developer",
       "type": "Full-Time",
-      "description": "Are you passionate about front-end development? Join our team in vibrant Brooklyn, NY, and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
       "location": "Brooklyn, NY",
+      "description": "Are you passionate about front-end development? Join our team in vibrant Brooklyn, NY, and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
       "salary": "$70K - $80K",
       "company": {
         "name": "Dolor Cloud",
         "description": "Dolor Cloud is a leading technology company specializing in digital solutions for businesses of all sizes. With a focus on innovation and customer satisfaction, we are committed to delivering cutting-edge products and services.",
         "contactEmail": "contact@dolorsitamet.com",
         "contactPhone": "555-555-5555"
-      }
+      },
+      "id": "3"
     },
     {
-      "id": "4",
       "title": "Vue Front-End Developer",
       "type": "Part-Time",
-      "description": "Join our team as a Part-Time Front-End Developer in beautiful Pheonix, AZ. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
       "location": "Pheonix, AZ",
+      "description": "Join our team as a Part-Time Front-End Developer in beautiful Pheonix, AZ. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
       "salary": "$60K - $70K",
       "company": {
         "name": "Alpha Elite",
         "description": "Alpha Elite is a dynamic startup specializing in digital marketing and web development. We are committed to fostering a diverse and inclusive workplace where creativity and innovation thrive.",
         "contactEmail": "contact@adipisicingelit.com",
         "contactPhone": "555-555-5555"
-      }
+      },
+      "id": "4"
     },
     {
       "id": "5",
@@ -82,6 +68,188 @@
         "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "0bb4",
+      "title": "Placeholder Title",
+      "type": "Full-Time",
+      "location": "In the cloud",
+      "description": "Description terext",
+      "salary": "$125K - $150K",
+      "company": {
+        "name": "Placeholder  company",
+        "description": "company description",
+        "contactEmail": "placeholder@dummy.com",
+        "contactPhone": "1230-2432-233"
+      }
+    },
+    {
+      "title": "Placeholder Titleasd",
+      "type": "Full-Time",
+      "location": "In the cloud",
+      "description": "Description terextasd",
+      "salary": "$125K - $150K",
+      "company": {
+        "name": "Placeholder  company",
+        "description": "company description",
+        "contactEmail": "placeholder@dummy.comd",
+        "contactPhone": "ds-2432-233"
+      },
+      "id": "a1f8"
+    },
+    {
+      "id": "546d",
+      "title": "Placeholder Title",
+      "type": "Full-Time",
+      "location": "In the cloud",
+      "description": "Description text",
+      "salary": "$125K - $150K",
+      "company": {
+        "name": "Placeholder  company",
+        "description": "company description",
+        "contactEmail": "placeholder@dummy.com",
+        "contactPhone": "1230-2432-233"
+      }
+    },
+    {
+      "id": "3e69",
+      "title": "New Job",
+      "type": "Full-Time",
+      "location": "In the cloud",
+      "description": "New job description",
+      "salary": "$125K - $150K",
+      "company": {
+        "name": "Placeholder  company",
+        "description": "company description",
+        "contactEmail": "placeholder@dummy.com",
+        "contactPhone": "1230-2432-233"
+      }
+    },
+    {
+      "id": "bacb",
+      "title": "New Job",
+      "type": "Full-Time",
+      "location": "In the cloud",
+      "description": "New job description",
+      "salary": "$125K - $150K",
+      "company": {
+        "name": "Placeholder  company",
+        "description": "company description",
+        "contactEmail": "placeholder@dummy.com",
+        "contactPhone": "1230-2432-233"
+      }
+    },
+    {
+      "id": "cb74",
+      "title": "New Job",
+      "type": "Full-Time",
+      "location": "In the cloud",
+      "description": "New job description",
+      "salary": "$125K - $150K",
+      "company": {
+        "name": "Placeholder  company",
+        "description": "company description",
+        "contactEmail": "placeholder@dummy.com",
+        "contactPhone": "1230-2432-233"
+      }
+    },
+    {
+      "id": "44b3",
+      "title": "New Job",
+      "type": "Full-Time",
+      "location": "In the cloud",
+      "description": "New job description",
+      "salary": "$125K - $150K",
+      "company": {
+        "name": "Placeholder  company",
+        "description": "company description",
+        "contactEmail": "placeholder@dummy.com",
+        "contactPhone": "1230-2432-233"
+      }
+    },
+    {
+      "id": "a286",
+      "title": "New Job",
+      "type": "Full-Time",
+      "location": "In the cloud",
+      "description": "New job description",
+      "salary": "$125K - $150K",
+      "company": {
+        "name": "Placeholder  company",
+        "description": "company description",
+        "contactEmail": "placeholder@dummy.com",
+        "contactPhone": "1230-2432-233"
+      }
+    },
+    {
+      "id": "ac0f",
+      "title": "New Job",
+      "type": "Full-Time",
+      "location": "In the cloud",
+      "description": "New job description",
+      "salary": "$125K - $150K",
+      "company": {
+        "name": "Placeholder  company",
+        "description": "company description",
+        "contactEmail": "placeholder@dummy.com",
+        "contactPhone": "1230-2432-233"
+      }
+    },
+    {
+      "id": "c6e7",
+      "title": "New Job",
+      "type": "Full-Time",
+      "location": "In the cloud",
+      "description": "New job description",
+      "salary": "$125K - $150K",
+      "company": {
+        "name": "Placeholder  company",
+        "description": "company description",
+        "contactEmail": "placeholder@dummy.com",
+        "contactPhone": "1230-2432-233"
+      }
+    },
+    {
+      "id": "7c71",
+      "title": "New Job",
+      "type": "Full-Time",
+      "location": "In the cloud",
+      "description": "New job description",
+      "salary": "$125K - $150K",
+      "company": {
+        "name": "Placeholder  company",
+        "description": "company description",
+        "contactEmail": "placeholder@dummy.com",
+        "contactPhone": "1230-2432-233"
+      }
+    },
+    {
+      "id": "5ac4",
+      "title": "New Job",
+      "type": "Full-Time",
+      "location": "In the cloud",
+      "description": "New job description",
+      "salary": "$125K - $150K",
+      "company": {
+        "name": "Placeholder  company",
+        "description": "company description",
+        "contactEmail": "placeholder@dummy.com",
+        "contactPhone": "1230-2432-233"
+      }
+    },
+    {
+      "id": "e397",
+      "title": "New Job",
+      "type": "Full-Time",
+      "location": "In the cloud",
+      "description": "New job description",
+      "salary": "$125K - $150K",
+      "company": {
+        "name": "Placeholder  company",
+        "description": "company description",
+        "contactEmail": "placeholder@dummy.com",
+        "contactPhone": "1230-2432-233"
       }
     }
   ]

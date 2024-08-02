@@ -1,3 +1,45 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+/* 
+:root {
+  --primary: theme('colors.primary.DEFAULT');
+  --primary-dark: theme('colors.primary.dark');
+  --primary-light: theme('colors.primary.light');
+  --secondary: theme('colors.secondary.DEFAULT');
+  --secondary-dark: theme('colors.secondary.dark');
+  --secondary-light: theme('colors.secondary.light');
+}
+
+[data-theme='yellow'] {
+  --primary: theme('colors.secondary.DEFAULT');
+  --primary-dark: theme('colors.secondary.dark');
+  --primary-light: theme('colors.secondary.light');
+  --secondary: theme('colors.primary.DEFAULT');
+  --secondary-dark: theme('colors.primary.dark');
+  --secondary-light: theme('colors.primary.light');
+} */
+
+:root {
+  --primary: #8c85a4;
+  --primary-dark: #261e55;
+  --primary-light: #8c85a4;
+  --secondary: #f1b243;
+  --secondary-dark: #f1a143;
+  --secondary-light: #f1b243;
+  --text: #000000;
+  --background: #d1c5bf;
+  --border: #bdc3c7;
+}
+
+[data-theme='yellow'] {
+  --primary: #fbbf24; /* Yellow */
+  --primary-dark: #b45309;
+  --primary-light: #fef3c7;
+  --secondary: #d97706; /* Darker yellow */
+  --secondary-dark: #854d0e;
+  --secondary-light: #fef08a;
+  --text: #261e55;
+  --background: #d1c5bf;
+  --border: #d1d5db;
+}
