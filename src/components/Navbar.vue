@@ -1,11 +1,5 @@
 <script setup>
-import { RouterLink, useRoute } from 'vue-router';
 import logo from '@/assets/img/logo.png';
-
-const isActiveLink = (routePath) => {
-  const route = useRoute();
-  return route.path === routePath;
-};
 </script>
 
 <template>
@@ -26,41 +20,20 @@ const isActiveLink = (routePath) => {
             <div class="flex space-x-2">
               <RouterLink
                 to="/"
-                :class="[
-                  isActiveLink('/')
-                    ? 'bg-green-900'
-                    : 'hover:bg-gray-900 hover:text-white',
-                  'text-white',
-                  'px-3',
-                  'py-2',
-                  'rounded-md',
-                ]"
+                class="text-white hover:bg-gray-900 hover:text-white rounded-md px-3 py-2"
+                active-class="bg-green-900"
                 >Home</RouterLink
               >
               <RouterLink
                 to="/jobs"
-                :class="[
-                  isActiveLink('/jobs')
-                    ? 'bg-green-900'
-                    : 'hover:bg-gray-900 hover:text-white',
-                  'text-white',
-                  'px-3',
-                  'py-2',
-                  'rounded-md',
-                ]"
+                class="text-white hover:bg-gray-900 hover:text-white rounded-md px-3 py-2"
+                active-class="bg-green-900"
                 >Jobs</RouterLink
               >
               <RouterLink
                 to="/jobs/add"
-                :class="[
-                  isActiveLink('/jobs/add')
-                    ? 'bg-green-900'
-                    : 'hover:bg-gray-900 hover:text-white',
-                  'text-white',
-                  'px-3',
-                  'py-2',
-                  'rounded-md',
-                ]"
+                class="text-white hover:bg-gray-900 hover:text-white rounded-md px-3 py-2"
+                active-class="bg-green-900"
                 >Add Job</RouterLink
               >
             </div>
